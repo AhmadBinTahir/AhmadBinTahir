@@ -1,21 +1,182 @@
-# 💫 About Me:
-A versatile and passionate professional with extensive experience in IT since the age of 10. <br>As a web developer, game developer, designer, marketer, and businessman, I have a proven track record of creating innovative solutions and driving successful projects.<br>My expertise spans from crafting advanced cybersecurity platforms to developing educational games, and from designing intuitive user interfaces to executing effective digital marketing strategies.<br>With a unique blend of technical skills and entrepreneurial spirit, I thrive in dynamic environments and consistently deliver exceptional results.
+<div align="center">
+  <a href="https://www.abtdevservices.com">
+    <img src="./assets/ahmad-bin-tahir-hero.svg" alt="Ahmad Bin Tahir — Software Engineer and Systems Architect" width="100%" />
+  </a>
+</div>
 
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=3000&pause=900&color=22D3EE&center=true&vCenter=true&width=760&lines=I+architect+systems+that+survive+contact+with+production.;Clean+architecture.+Secure+foundations.+Measurable+performance.;From+first+principles+to+production+infrastructure." alt="Typing introduction" />
+  </a>
+</div>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmadbintahir) 
+<div align="center">
+  <a href="https://www.abtdevservices.com"><img src="https://img.shields.io/badge/Portfolio-0B1220?style=for-the-badge&logo=googlechrome&logoColor=22D3EE" alt="Portfolio" /></a>
+  <a href="https://scheduler.zoom.us/ahmad-bin-tahir/abtdevservices"><img src="https://img.shields.io/badge/Schedule_a_Call-0B1220?style=for-the-badge&logo=zoom&logoColor=2DD4BF" alt="Schedule a call" /></a>
+  <a href="https://www.linkedin.com/in/ahmad-bin-tahir-996606230/"><img src="https://img.shields.io/badge/LinkedIn-0B1220?style=for-the-badge&logo=linkedin&logoColor=38BDF8" alt="LinkedIn" /></a>
+  <a href="https://www.researchgate.net/profile/Ahmad-Bin-Tahir"><img src="https://img.shields.io/badge/ResearchGate-0B1220?style=for-the-badge&logo=researchgate&logoColor=00CCBB" alt="ResearchGate" /></a>
+  <img src="https://komarev.com/ghpvc/?username=AhmadBinTahir&style=for-the-badge&color=0e7490&label=PROFILE+VIEWS" alt="Profile views" />
+</div>
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Alpine.js](https://img.shields.io/badge/alpinejs-white.svg?style=for-the-badge&logo=alpinedotjs&logoColor=%238BC0D0) ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Code-Igniter](https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=for-the-badge&logo=codeIgniter&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Symfony](https://img.shields.io/badge/symfony-%23000000.svg?style=for-the-badge&logo=symfony&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=for-the-badge&logo=adobeindesign&logoColor=FF3366) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e) ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=AhmadBinTahir&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=AhmadBinTahir&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmadBinTahir&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<p align="center">
+  <img src="./assets/ahmad-bin-tahir.png" width="160" height="160" alt="Portrait of Ahmad Bin Tahir" />
+  <br/>
+  <sub><b>Engineer by discipline · Architect by instinct · Entrepreneur by mindset</b></sub>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=AhmadBinTahir&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### The engineer behind the systems
+
+I am **Ahmad Bin Tahir**, a software engineer and systems architect from Lahore, Pakistan, currently pursuing a Bachelor's degree in **Cybersecurity at the University of Central Punjab**.
+
+I wrote my first code at around ten years old, beginning with Unity and C#. That curiosity grew into a career spanning full-stack products, backend platforms, AI systems, cloud infrastructure, automation, security engineering, and large-scale software architecture. Today, I focus on turning difficult business and engineering problems into systems that are **secure, scalable, observable, and maintainable**.
+
+My standard is not _“does it work?”_ It is _“will it remain correct, understandable, and reliable as the product, team, and traffic grow?”_
+
+<table>
+  <tr>
+    <td width="25%" align="center"><b>Building since ~10</b><br/><sub>a lifelong engineering path</sub></td>
+    <td width="25%" align="center"><b>Production first</b><br/><sub>not prototype theatre</sub></td>
+    <td width="25%" align="center"><b>Security minded</b><br/><sub>from design to deploy</sub></td>
+    <td width="25%" align="center"><b>Entrepreneurial</b><br/><sub>engineering meets business</sub></td>
+  </tr>
+</table>
+
+### What I engineer
+
+<picture>
+  <source media="(max-width: 650px)" srcset="./assets/architecture-blueprint-mobile.svg" />
+  <img src="./assets/architecture-blueprint.svg" width="100%" alt="Ahmad's production system architecture blueprint" />
+</picture>
+
+| Domain | What I bring to the table |
+| :--- | :--- |
+| **Software architecture** | Clean boundaries, modular systems, SOLID design, thoughtful abstractions, and explicit trade-offs |
+| **Backend & platforms** | Secure APIs, authentication/authorization, data modeling, service design, caching, queues, and performance work |
+| **AI engineering** | LLM integrations, agents, multi-agent workflows, RAG, prompt systems, computer vision, and production AI delivery |
+| **Cloud & automation** | Reproducible environments, CI/CD, deployments, infrastructure thinking, observability, and workflow automation |
+| **Security engineering** | Threat-aware design, least privilege, secure defaults, defensive validation, and cybersecurity research |
+| **Product development** | Responsive full-stack experiences that balance business value, developer experience, and long-term maintainability |
+
+### Technology radar
+
+<details open>
+<summary><b>Languages & core engineering</b></summary>
+<br/>
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,python,cpp,php,cs,html,css&theme=dark" alt="TypeScript, JavaScript, Python, C++, PHP, C#, HTML, and CSS" />
+  <img src="https://img.shields.io/badge/SQL-0B1220?style=for-the-badge&logo=postgresql&logoColor=38BDF8" alt="SQL" />
+</p>
+</details>
+
+<details open>
+<summary><b>Frontend, backend & application platforms</b></summary>
+<br/>
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,nodejs,express,laravel,tailwind,wordpress,prisma&theme=dark" alt="React, Next.js, Vue, Node.js, Express, Laravel, Tailwind CSS, WordPress, and Prisma" />
+</p>
+</details>
+
+<details open>
+<summary><b>Data, cloud & delivery</b></summary>
+<br/>
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,supabase,redis,docker,aws,azure,gcp,cloudflare,githubactions,vercel&theme=dark" alt="PostgreSQL, MySQL, MongoDB, Supabase, Redis, Docker, AWS, Azure, Google Cloud, Cloudflare, GitHub Actions, and Vercel" />
+</p>
+</details>
+
+<details open>
+<summary><b>AI, computer vision & engineering tools</b></summary>
+<br/>
+<p>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,git,github,linux,bash,vscode,visualstudio,unity&theme=dark" alt="PyTorch, TensorFlow, OpenCV, Git, GitHub, Linux, Bash, VS Code, Visual Studio, and Unity" />
+</p>
+</details>
+
+> **AI systems I work with:** LLM integrations · AI agents · Multi-agent systems · RAG · Prompt engineering · Azure AI Foundry · OpenAI APIs · Anthropic Claude · OpenCV · YOLO
+
+### Engineering principles
+
+<div align="center">
+
+| Architect for change | Secure every boundary | Measure before optimizing |
+| :---: | :---: | :---: |
+| Prefer explicit contracts | Keep coupling low | Automate repeatable work |
+| Make failure observable | Document the _why_ | Ship maintainable systems |
+
+</div>
+
+### Current trajectory
+
+- Designing production-grade software and distributed backend systems.
+- Building useful AI agents and RAG workflows with strong evaluation and guardrails.
+- Deepening cybersecurity expertise through my degree and applied research.
+- Creating scalable digital products and engineering partnerships through **ABT Dev Services**.
+- Exploring the intersection of AI, automation, cloud platforms, and secure software architecture.
+
+### GitHub telemetry
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AhmadBinTahir&theme=tokyonight" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AhmadBinTahir&theme=github" />
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AhmadBinTahir&theme=tokyonight" alt="Ahmad's GitHub contribution profile" />
+</picture>
+
+<p align="center">
+  <img width="620" src="https://github-readme-stats.vercel.app/api?username=AhmadBinTahir&show_icons=true&include_all_commits=true&hide_border=true&bg_color=00000000&title_color=22D3EE&text_color=CBD5E1&icon_color=8B5CF6&ring_color=2DD4BF" alt="Ahmad's GitHub statistics" />
+</p>
+
+<p align="center">
+  <img width="620" src="https://streak-stats.demolab.com?user=AhmadBinTahir&hide_border=true&background=00000000&ring=22D3EE&fire=8B5CF6&currStreakLabel=2DD4BF&sideLabels=CBD5E1&dates=64748B&currStreakNum=F8FAFC&sideNums=F8FAFC" alt="Ahmad's GitHub contribution streak" />
+</p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=AhmadBinTahir&bg_color=070B17&color=94A3B8&line=22D3EE&point=8B5CF6&area=true&hide_border=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=AhmadBinTahir&bg_color=FFFFFF&color=475569&line=0891B2&point=7C3AED&area=true&hide_border=true" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=AhmadBinTahir&bg_color=070B17&color=94A3B8&line=22D3EE&point=8B5CF6&area=true&hide_border=true" alt="Ahmad's contribution activity graph" />
+</picture>
+
+<details>
+<summary><b>More repository analytics</b></summary>
+<br/>
+<p align="center">
+  <img width="620" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmadBinTahir&layout=compact&langs_count=10&hide_border=true&bg_color=00000000&title_color=22D3EE&text_color=CBD5E1" alt="Languages used across Ahmad's public repositories" />
+</p>
+<sub>Language cards describe public repository composition, not engineering proficiency.</sub>
+</details>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AhmadBinTahir/AhmadBinTahir/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AhmadBinTahir/AhmadBinTahir/output/github-contribution-grid-snake.svg" />
+  <img alt="Contribution grid animation" src="https://raw.githubusercontent.com/AhmadBinTahir/AhmadBinTahir/output/github-contribution-grid-snake.svg" />
+</picture>
+
+### Find me in the real world
+
+<table>
+  <tr>
+    <td align="center"><a href="https://www.abtdevservices.com"><b>Website</b></a><br/><sub>Work, services & portfolio</sub></td>
+    <td align="center"><a href="https://scheduler.zoom.us/ahmad-bin-tahir/abtdevservices"><b>Book a call</b></a><br/><sub>Discuss a product or partnership</sub></td>
+    <td align="center"><a href="https://www.linkedin.com/in/ahmad-bin-tahir-996606230/"><b>LinkedIn</b></a><br/><sub>Professional updates</sub></td>
+    <td align="center"><a href="https://www.researchgate.net/profile/Ahmad-Bin-Tahir"><b>ResearchGate</b></a><br/><sub>Research profile</sub></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://x.com/AhmadBinTahir5"><b>X / Twitter</b></a><br/><sub>Ideas & engineering notes</sub></td>
+    <td align="center"><a href="https://www.linkedin.com/company/abtdevservices"><b>ABT Dev Services</b></a><br/><sub>Company on LinkedIn</sub></td>
+    <td align="center"><a href="https://clutch.co/profile/abt-dev-services"><b>Clutch</b></a><br/><sub>Company profile & reviews</sub></td>
+    <td align="center"><a href="https://instagram.com/abtdevservices"><b>Instagram</b></a> · <a href="https://www.facebook.com/profile.php?id=61550007003199"><b>Facebook</b></a><br/><sub>Behind the build</sub></td>
+  </tr>
+</table>
+
+---
+
+<div align="center">
+  <h3>Have a difficult system to build?</h3>
+  <p>I am always interested in ambitious products, hard engineering problems, AI systems, security research, and serious technical collaborations.</p>
+  <a href="https://scheduler.zoom.us/ahmad-bin-tahir/abtdevservices">
+    <img src="https://img.shields.io/badge/LET'S_ARCHITECT_IT-22D3EE?style=for-the-badge&logo=zoom&logoColor=07111F" alt="Schedule a conversation" />
+  </a>
+  <br/><br/>
+  <sub><i>Correctness over shortcuts. Architecture over accidents. Systems built to last.</i></sub>
+</div>
