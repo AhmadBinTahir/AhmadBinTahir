@@ -1,7 +1,4 @@
-<picture>
-  <source media="(max-width: 650px)" srcset="./assets/terminal-mobile.svg" />
-  <img src="./assets/terminal-desktop.svg" width="100%" alt="Ahmad Bin Tahir — software engineer, systems architect, and cybersecurity student" />
-</picture>
+<img src="./assets/terminal-desktop.svg" width="100%" alt="Ahmad Bin Tahir — software engineer, systems architect, and cybersecurity student" />
 
 <p align="center">
   <a href="https://www.abtdevservices.com">website</a> ·
@@ -74,4 +71,6 @@ STATUS    open to hard engineering problems, research, and serious builds
   <a href="https://www.facebook.com/profile.php?id=61550007003199">facebook</a>
 </p>
 
-<p align="center"><code>root@abt:~# build_the_future --secure --scalable --maintainable</code></p>
+<br />
+
+<img src="./assets/footer.svg" width="100%" alt="Let's build something that lasts — ABT Dev Services" />
