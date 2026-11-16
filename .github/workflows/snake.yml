@@ -1,11 +1,7 @@
 name: Generate contribution snake
 
 on:
-  push:
-    branches:
-      - main
-  schedule:
-    - cron: "20 0 * * *"
+  # On demand only: Actions > this workflow > "Run workflow" (or: gh workflow run <file>).
   workflow_dispatch:
 
 permissions:
